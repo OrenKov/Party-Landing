@@ -1,2 +1,2 @@
 # Party-Landing
-Party-Landing webpage.
+https://orenkov.github.io/party-landing-page/
